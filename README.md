@@ -10,7 +10,7 @@ install "json-schema-faker"
 
 Create a node server "generateMockData.js"
 
-Script (package.js)
+Script
 ```
  "scripts": {
     "generate-mock-data": "babel-node build/generateMockData",
