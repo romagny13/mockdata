@@ -1,10 +1,10 @@
 # Mock data example with Faker.js and Node.js
 
-1.Create schema "mockDataSchema.js"
+##1.Create schema "mockDataSchema.js"
 
 <a href="https://github.com/marak/Faker.js/">Documentation Faker.js</a>
 
-2.generate json db 
+##2.generate json db 
 
 install "json-schema-faker"
 
@@ -19,7 +19,7 @@ Script (package.js)
 
 (install babel packages for es6 support)
 
-3.serve data
+##3.serve data
 
 Install "json-server"
 
